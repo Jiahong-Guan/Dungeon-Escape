@@ -15,7 +15,7 @@ Take on the challenge of a four-level elevator, where a magic wand randomly appe
 ![Level 2: The Elevator](assets/elevator.png)
 
 ### Level 3: The Boss Room
-Face the fearsome Kraken in an underwater boss battle. With 100 HP, players must dodge lasers and fireballs while waiting for a sword to drop. Collect the sword and press 'F' to strike the Kraken, who has 500 HP. Watch out for health orbs that appear when your HP drops below 50, restoring 20 HP upon collection.
+Face the fearsome Kraken in an underwater boss battle. With 100 HP, players must dodge lasers and fireballs while waiting for a sword to drop. Collect the sword and press "F" to strike the Kraken, who has 500 HP. Watch out for health orbs that appear when your HP drops below 50, restoring 20 HP upon collection.
 
 ![Level 3: The Boss Room](assets/boss.png)
 
