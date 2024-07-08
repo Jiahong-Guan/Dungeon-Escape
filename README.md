@@ -2,7 +2,7 @@
 
 ![Dungeon Escape Entrance](assets/dungeon.png)
 
-In "Dungeon Escape," players embark on an adventure with the character Oddish (Pokemon) through three challenging levels.
+In "Dungeon Escape," players embark on an adventure with the character Oddish (Pokemon) through three challenging levels. This game was made 100% with Scratch.
 
 ### Level 1: The Maze
 Navigate through a treacherous maze to collect a key and a taco, avoiding lightning strikes, a dragon, and a ghoul. With only three lives and 300 seconds, every move counts.
